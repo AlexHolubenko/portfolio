@@ -60,7 +60,7 @@ class Resume extends Component {
                <Education 
                  startYear='September 2014'
                  endYear='June 2018'
-                 academicDegree='Master of Computer Science'
+                 academicDegree='Bachelor of Computer Science'
                  schoolName='Lviv Polytechnic National University'
                  fieldStudy='"Systems engineering"'
                 
