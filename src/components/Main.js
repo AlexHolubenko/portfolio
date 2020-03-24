@@ -8,9 +8,9 @@ import LandingPage from './LandingPage';
 function Main() {
     return (
        <Switch>
-         <Route exact path='/' component={LandingPage}/>
-         <Route exact path='/resume' component={Resume}/>
-         <Route exact path='/projects' component={Projects}/>
+         <Route exact path='/portfolio/' component={LandingPage}/>
+         <Route exact path='/portfolio/resume' component={Resume}/>
+         <Route exact path='/portfolio/projects' component={Projects}/>
        </Switch>
     )
  }
