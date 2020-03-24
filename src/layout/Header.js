@@ -6,10 +6,10 @@ class Header extends Component {
     return (
      
       <header className="header">
-       <h1><Link to="/portfolio/">AlexDev</Link></h1>
+       <h1><Link to="/">AlexDev</Link></h1>
        <nav className="nav-top">
-        <Link to="/portfolio/resume">Resume</Link>
-        <Link to="/portfolio/projects">Projects</Link>
+        <Link to="/resume">Resume</Link>
+        <Link to="/projects">Projects</Link>
        </nav>
       </header>
      
