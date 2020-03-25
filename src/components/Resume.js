@@ -35,7 +35,7 @@ class Resume extends Component {
                
               </div>
               <div className="resume-right-col">
-               <h2>Experience</h2>
+               <h2>Courses</h2>
                 <Experience 
                   start='February 2020'
                   end='Present'

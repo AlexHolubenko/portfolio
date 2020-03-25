@@ -19,7 +19,7 @@ class LandingPage extends Component {
                    <hr/>
                    <p>HTML/CSS |  JavaScript | React</p>
                    <div className="social-links">
-                    <a href="https://www.linkedin.com/in/oleksandr-holubenko-766906147/" rel="noopener noreferrer" target="_blank">
+                    <a href="https://www.linkedin.com/in/oleksandrholubenko/" rel="noopener noreferrer" target="_blank">
                      <i className="fa fa-linkedin-square" aria-hidden="true"></i>
                     </a>
                     <a href="https://github.com/AlexHolubenko" rel="noopener noreferrer" target="_blank">
