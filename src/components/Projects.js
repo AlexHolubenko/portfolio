@@ -4,6 +4,7 @@ import recipe from './_projects/recipe.png';
 import natours from './_projects/natours.png';
 import trillo from './_projects/trillo.png';
 import todos from './_projects/todos.png';
+import pokedex from './_projects/pokedex.png';
 
 class Projects extends Component {
   constructor(){
@@ -37,6 +38,13 @@ class Projects extends Component {
           img: trillo,
           github: 'https://github.com/AlexHolubenko/Trillo',
           live: 'https://alexholubenko.github.io/Trillo/'
+        },
+        {
+          name: "Pokedex",
+          tools: 'HTML/CSS, JavaScript, React',
+          img: pokedex,
+          github: 'https://github.com/AlexHolubenko/pokedex',
+          live: 'https://alexholubenko.github.io/pokedex/'
         }
       ]
     }
